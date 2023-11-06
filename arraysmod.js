@@ -1,5 +1,5 @@
 let courses = ["Java","Ruby","Vue"];
-courses.forEach(func);
+//courses.forEach(func);
 
 function func (courses){
     console.log(courses);
