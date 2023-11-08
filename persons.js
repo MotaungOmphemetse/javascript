@@ -26,3 +26,5 @@ let ntombii = new Students("Thoko", 12, "Fullstack");
 // let john = new Students();
 console.log(ntombii);
 console.log(johny);
+
+
