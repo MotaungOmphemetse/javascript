@@ -27,4 +27,34 @@ let ntombii = new Students("Thoko", 12, "Fullstack");
 console.log(ntombii);
 console.log(johny);
 
+let user = {
+ name: "John",
+ id : 123, 
+ fruit : "Apple",
+}
+console.log(user);
 
+let menu= {
+    width : 400,
+    height: 600,
+    title: "My menu",
+}
+
+console.log(menu);
+
+// let users = {
+//     fname : "Ntombi",
+// }
+
+// let message = "Hello!";
+// let phrases = message;
+
+// console.log(users.phrases);
+
+const usern = {
+    lastname :"Kgosi"
+};
+
+usern.lastname = "Lerato";
+
+console.log(usern.lastname);

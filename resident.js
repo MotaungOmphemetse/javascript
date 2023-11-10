@@ -4,3 +4,5 @@ resident1.addAddress('Limpopo'),
 resident1.getDetails();
 
 console.log(resident1.getDetails());
+
+
